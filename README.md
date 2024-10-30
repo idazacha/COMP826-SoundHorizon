@@ -52,6 +52,7 @@ If there's none, make sure you set-up a device whether it be a connected device 
 
 <h3>Step 3: Run the application</h3>
 Start the Flutter application by running:
+
 ```
 flutter run
 ```
